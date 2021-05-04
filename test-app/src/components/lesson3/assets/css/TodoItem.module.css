@@ -1,0 +1,14 @@
+.item{
+    border-radius: 5px;
+    padding: 12px;
+    border: 1px solid red;
+    margin-bottom: 8px;
+    min-width: 240px;
+    max-width: 500px;
+    color: red;
+}
+
+.completed{
+    color: green;
+    border: 1px solid green;
+}
